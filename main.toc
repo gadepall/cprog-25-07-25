@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Integers}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Formulae}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}NCERT}{5}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Decimal Numbers}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Formulae}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}NCERT}{9}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Programming}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Formulae}{14}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}NCERT}{31}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Data Handling}{36}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Formulae}{36}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}NCERT}{43}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Math Library}{48}{section.5}%
+\contentsline {section}{\numberline {6}Random Numbers}{53}{section.6}%
+\contentsline {section}{Appendix\nobreakspace A: Triangle}{57}{section*.18}%
+\contentsline {subsection}{\numberline {A.1}Sides}{57}{subsection.Appendix.A.1}%
+\contentsline {subsection}{\numberline {A.2}Median}{61}{subsection.Appendix.A.2}%
+\contentsline {subsection}{\numberline {A.3}Altitude}{62}{subsection.Appendix.A.3}%
+\contentsline {subsection}{\numberline {A.4}Perpendicular Bisector}{63}{subsection.Appendix.A.4}%
+\contentsline {subsection}{\numberline {A.5}Angle Bisector}{64}{subsection.Appendix.A.5}%

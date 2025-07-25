@@ -1,0 +1,27 @@
+\begin{enumerate}[label=\thesubsection.\arabic*.,ref=\thesubsection.\theenumi]
+\numberwithin{equation}{enumi}
+\item If $\vec{D}$ divides $BC$ in the ratio $k : 1$,
+		\begin{align}
+			\vec{D}= \frac{k\vec{C}+\vec{B}}{k+1}
+	  \label{eq:app-section_formula}
+		\end{align}
+		Find the mid points $\vec{D}, \vec{E}, \vec{F}$ of the sides $BC, CA$ and $AB$ respectively.
+	\\
+		\input{solutions/1/2/1/main.tex}  
+	\item Find the centroid  of $\triangle ABC$ which divides $AD$ in the ratio $2:1$.
+		\begin{align}
+			\vec{G}=\frac{\vec{A}+\vec{B}+\vec{C}}{3}
+		\end{align}
+   \\
+\solution
+\begin{equation}
+\begin{split}
+\label{eq:centroid}
+    \vec{G}&= \frac{\myvec{1\\-1}+\myvec{-4\\6}+\myvec{-3\\-5}}{3}\\    
+     &= \myvec{-2\\0}
+\end{split}
+\end{equation}
+\begin{lstlisting}
+	codes/msoft/medians.c
+\end{lstlisting}
+\end{enumerate}

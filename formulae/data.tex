@@ -1,0 +1,64 @@
+\begin{enumerate}[label=\thesubsection.\arabic*, ref=\thesubsection.\theenumi]
+\item A batsman scored the following number of runs in 6 innings.  
+	$$36, 35, 50, 46, 60, 55$$
+	Calculate the mean runs scored by him in an inning.
+	\\
+	\solution
+	\lstinputlisting{codes/data/avg.c}
+\item The ages in years of 10 teachers of a school are
+	$$32, 41, 28, 54, 35, 26, 23, 33, 38, 40$$
+	\begin{enumerate}
+		\item What is the age of the oldest teacher and that of the youngest teacher?
+			\\
+			\solution
+	\lstinputlisting{codes/data/minmax.c}
+		\item What is the range of the ages of the teachers?
+		\item What is the mean age of these teachers?
+	\end{enumerate}
+\item Organize the following marks in a class assessment, in tabular form with columns as marks and frequency.
+	\begin{gather}
+	4, 6, 7, 5, 3, 5, 4, 5, 2, 6, 2, 5, 1, 9, 6, 5, 8, 4, 6, 7
+	\end{gather}
+	\begin{enumerate}
+		\item Which number is the highest?
+		\item Which number is the lowest?
+		\item What is the range of the data?
+		\item Find the arithmetic mean.
+	\end{enumerate}
+	\solution
+	\lstinputlisting{codes/data/markfreq.c}
+	\item 
+Find the median of
+		the group of 17 students with the following heights (in cm)
+\begin{gather*}
+106, 110, 123, 125, 117, 120, 112, 115, 
+\\
+110, 120, 115, 102, 115, 115, 109, 115, 101
+\end{gather*}
+	\\
+	\solution
+\lstinputlisting{codes/data/find-median.c}
+\item	Sale of English and Hindi books in the years 1995, 1996, 1997 and 1998 are given below in
+  \tabref{tab:sale}.  
+	\begin{table}[H]
+  \centering
+  \input{tables/sale.tex}
+  \caption{}
+  \label{tab:sale}
+\end{table}
+Draw a double bar graph and answer the following questions
+\begin{enumerate}
+\item In which year was the difference in the sale of the two language books least?.
+\item  Can you say that the demand for English books rose faster? Justify.
+\end{enumerate}
+	\solution
+	\lstinputlisting{codes/data/bar.c}
+\item Following are the margins of victory in the football matches of a league.  Find the mode of this data.
+	\begin{gather*}
+	1,3,2,5,1,4,6,2,5,2,2,2,4,1,2,3,1,1,2,3,2,6,4,3,2,
+	\\
+	1,1,4,2,1,5,3,3,2,3,2,4,2,1,2.
+	\end{gather*}
+	\solution
+\lstinputlisting{codes/data/findmode.c}
+\end{enumerate}
